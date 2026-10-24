@@ -1,248 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:151B2E&height=200&section=header&text=ECHO&fontSize=72&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&desc=GESTURE%20INTERFACE%20FOR%20THE%20TOUCHLESS%20ERA&descAlign=50&descAlignY=68&descSize=14&descColor=8B93A7" width="100%" alt="ECHO"/>
+# 🖐️ ECHO
 
-<br/>
+### Enhanced Controls using Hand Operations
 
-**Control your computer with a single hand.**<br/>
-Real-time gesture recognition through any webcam. No hardware. No contact.
+**Control your computer with nothing but your hand and a webcam.**
 
-<br/>
+![Python](https://img.shields.io/badge/Python-3.10.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Input](https://img.shields.io/badge/Input-Webcam-111827?style=for-the-badge&logo=opencv&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/PYTHON-3.10.11-0B0F19?style=flat-square&logo=python&logoColor=5B8CFF&labelColor=0B0F19&color=1E2540" alt="Python"/>
-<img src="https://img.shields.io/badge/PLATFORM-WINDOWS-0B0F19?style=flat-square&logo=windows&logoColor=5B8CFF&labelColor=0B0F19&color=1E2540" alt="Platform"/>
-<img src="https://img.shields.io/badge/INPUT-WEBCAM-0B0F19?style=flat-square&logo=opencv&logoColor=5B8CFF&labelColor=0B0F19&color=1E2540" alt="Input"/>
-<img src="https://img.shields.io/github/last-commit/thansee-r/ECHO?style=flat-square&labelColor=0B0F19&color=1E2540" alt="Last commit"/>
-<img src="https://img.shields.io/github/stars/thansee-r/ECHO?style=flat-square&labelColor=0B0F19&color=1E2540" alt="Stars"/>
+[Features](#-features) · [Quick Start](#-quick-start) · [Modes](#-selecting-a-mode) · [Limitations](#-current-limitations) · [Team](#-team)
 
-<br/><br/>
-
-[**Overview**](#overview) &nbsp;·&nbsp; [**Modes**](#modes) &nbsp;·&nbsp; [**Installation**](#installation) &nbsp;·&nbsp; [**Architecture**](#architecture) &nbsp;·&nbsp; [**Team**](#team)
+<!-- Add a demo GIF here: ![ECHO Demo](assets/demo.gif) -->
 
 </div>
 
-<br/>
+---
 
-<div align="center">
+## ✨ Features
 
-<!-- Replace with your hero demo GIF or video thumbnail (recommended: 1200 x 675) -->
-<!-- <img src="assets/demo.gif" width="88%" alt="ECHO in action"/> -->
+ECHO turns hand gestures captured by your webcam into real computer controls, organised into four purpose-built modes.
 
-</div>
+| Mode | Fingers | What it's for |
+|------|:-------:|---------------|
+| 🦾 **Assistive** | ☝️ 1 | Accessible, hands-free style control |
+| 📊 **Presentation** | ✌️ 2 | Run slides with gestures |
+| 💬 **Communication** | 🤟 3 | Gesture-driven communication tools |
+| 🎮 **Entertainment** | 🖖 4 | Media and fun interactions |
 
-<br/>
+---
 
-## Overview
+## 🚀 Quick Start
 
-ECHO turns your webcam into an input device. Show your hand, pick a mode with your fingers, and control the experience with gestures. There is no extra hardware to buy and nothing to wear.
-
-<br/>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>Touchless</h4>
-      <sub>Operate everything with hand gestures alone. No mouse, no keyboard.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h4>Instant</h4>
-      <sub>Real-time recognition with live on-screen guidance for every gesture.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h4>Hardware-free</h4>
-      <sub>Works with the webcam you already have. Nothing to install but Python.</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## Modes
-
-Hold up fingers in front of the camera at launch to choose a mode.
-
-<br/>
-
-<table>
-  <tr>
-    <th align="center" width="25%">01</th>
-    <th align="center" width="25%">02</th>
-    <th align="center" width="25%">03</th>
-    <th align="center" width="25%">04</th>
-  </tr>
-  <tr>
-    <td align="center"><b>Assistive</b><br/><sub>1 finger</sub></td>
-    <td align="center"><b>Presentation</b><br/><sub>2 fingers</sub></td>
-    <td align="center"><b>Communication</b><br/><sub>3 fingers</sub></td>
-    <td align="center"><b>Entertainment</b><br/><sub>4 fingers</sub></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top"><sub><!-- one-line description --></sub></td>
-    <td align="center" valign="top"><sub><!-- one-line description --></sub></td>
-    <td align="center" valign="top"><sub><!-- one-line description --></sub></td>
-    <td align="center" valign="top"><sub><!-- one-line description --></sub></td>
-  </tr>
-</table>
-
-<br/>
-
-Once a mode is active, follow the on-screen instructions to perform its gestures.
-
-<details>
-<summary><b>Gesture reference</b></summary>
-<br/>
-
-| Mode | Gesture | Action |
-|---|---|---|
-| Assistive | <!-- gesture --> | <!-- action --> |
-| Presentation | <!-- gesture --> | <!-- action --> |
-| Communication | <!-- gesture --> | <!-- action --> |
-| Entertainment | <!-- gesture --> | <!-- action --> |
-
-</details>
-
-<br/>
-
-## Installation
+### Prerequisites
 
 > [!IMPORTANT]
-> ECHO was developed and tested on **Python 3.10.x**. Use this version to avoid dependency conflicts.
-> Recommended: [Python 3.10.11, Windows installer (64-bit)](https://www.python.org/downloads/release/python-31011/)
+> ECHO was developed and tested on **Python 3.10.x**. Use a 3.10.x version to avoid dependency issues.
 
-<br/>
+- **Recommended:** [Python 3.10.11 (Windows installer, 64-bit)](https://www.python.org/downloads/release/python-31011/)
+- A working webcam
 
-**1. Clone the repository**
+### Installation
 
 ```bash
+# 1. Clone the repository
 git clone https://github.com/thansee-r/ECHO.git
+
+# 2. Move into the project folder
 cd ECHO
-```
 
-**2. Create and activate a virtual environment**
+# 3. (Optional) Open in VS Code
+code .
 
-```bash
+# 4. Create a virtual environment
 python -m venv .venv
-.venv\Scripts\activate          # Windows
-# source .venv/bin/activate     # macOS / Linux
-```
 
-**3. Install dependencies**
+# 5. Activate it (Windows)
+.venv\Scripts\activate
 
-```bash
+# 6. Install dependencies
 pip install -r requirements.txt
-```
 
-**4. Run**
-
-```bash
+# 7. Run ECHO
 python main.py
 ```
 
-<details>
-<summary><b>Troubleshooting</b></summary>
-<br/>
+---
 
-| Issue | Resolution |
-|---|---|
-| Dependency errors | Confirm `python --version` reports 3.10.x |
-| Activation blocked in PowerShell | Run `Set-ExecutionPolicy -Scope Process RemoteSigned`, then retry |
-| Camera fails to open | Close other apps using the webcam and check camera permissions |
-| Gestures not detected | Improve lighting and keep one hand fully in frame |
+## 🖐️ Selecting a Mode
 
-</details>
+After launching, hold up the matching number of fingers in front of your webcam:
 
-<br/>
+| Gesture | Mode |
+|:-------:|------|
+| ☝️ **1 finger** | Assistive Mode |
+| ✌️ **2 fingers** | Presentation Mode |
+| 🤟 **3 fingers** | Communication Mode |
+| 🖖 **4 fingers** | Entertainment Mode |
 
-## Architecture
+Once a mode is active, follow the **on-screen instructions** to see the available gestures and actions.
 
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0B0F19','primaryBorderColor':'#5B8CFF','primaryTextColor':'#E6E9F2','lineColor':'#5B8CFF','secondaryColor':'#151B2E','tertiaryColor':'#0B0F19','fontFamily':'Inter, sans-serif'}}}%%
-flowchart LR
-    A[Webcam] --> B[Hand Detection]
-    B --> C[Gesture Recognition]
-    C --> D{Mode Selector}
-    D --> E[Assistive]
-    D --> F[Presentation]
-    D --> G[Communication]
-    D --> H[Entertainment]
-```
+---
 
-<br/>
+## ⚠️ Current Limitations
 
-## Limitations
+- 🤚 Supports **single-hand** gesture recognition only
+- 💡 Performance may vary in **poor or uneven lighting**. Face a light source for best results
 
-- Single-hand gesture recognition only
-- Performance may vary under poor or uneven lighting
+---
 
-<br/>
-
-## Roadmap
-
-- [x] Real-time hand tracking
-- [x] Four interaction modes
-- [ ] Multi-hand support
-- [ ] Improved low-light performance
-- [ ] Expanded gesture library
-
-<br/>
-
-## Contributing
-
-Pull requests are welcome. For major changes, open an issue first to discuss what you would like to change.
-
-```bash
-git checkout -b feature/your-feature
-git commit -m "Add your feature"
-git push origin feature/your-feature
-```
-
-<br/>
-
-## Team
-
-<div align="center">
+## 👥 Team
 
 <table>
   <tr>
-    <td align="center" width="200">
-      <a href="https://github.com/Rishi18360">
-        <img src="https://github.com/Rishi18360.png?size=140" width="96" alt="Rishi Raj A"/><br/><br/>
-        <b>Rishi Raj A</b><br/>
-        <sub>@Rishi18360</sub>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/ihsansak">
-        <img src="https://github.com/ihsansak.png?size=140" width="96" alt="Ihsan Sakeer"/><br/><br/>
-        <b>Ihsan Sakeer</b><br/>
-        <sub>@ihsansak</sub>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/thansee-r">
-        <img src="https://github.com/thansee-r.png?size=140" width="96" alt="Thanseer Ahmed M S"/><br/><br/>
-        <b>Thanseer Ahmed M S</b><br/>
-        <sub>@thansee-r</sub>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/AshwinSabu05">
-        <img src="https://github.com/AshwinSabu05.png?size=140" width="96" alt="Ashwin Sabu"/><br/><br/>
-        <b>Ashwin Sabu</b><br/>
-        <sub>@AshwinSabu05</sub>
-      </a>
-    </td>
+    <td align="center"><a href="https://github.com/Rishi18360"><b>Rishi Raj A</b></a></td>
+    <td align="center"><a href="https://github.com/ihsansak"><b>Ihsan Sakeer</b></a></td>
+    <td align="center"><a href="https://github.com/thansee-r"><b>Thanseer Ahmed M S</b></a></td>
+    <td align="center"><a href="https://github.com/AshwinSabu05"><b>Ashwin Sabu</b></a></td>
   </tr>
 </table>
 
-</div>
-
-<br/>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:151B2E,100:0B0F19&height=80&section=footer" width="100%" alt=""/>
-
-<sub>If ECHO is useful to you, consider starring the repository.</sub>
+⭐ If you like ECHO, consider giving the repo a star!
 
 </div>
