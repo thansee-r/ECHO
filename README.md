@@ -1,111 +1,126 @@
 <div align="center">
 
-# 🖐️ ECHO
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:3B2F14,100:C9A24B&height=240&section=header&text=E%20C%20H%20O&fontSize=78&fontColor=F5E6B8&fontAlignY=40&desc=ENHANCED%20CONTROLS%20USING%20HAND%20OPERATIONS&descSize=15&descAlignY=62&descColor=E8D08A" width="100%" alt="ECHO banner"/>
 
-### Enhanced Controls using Hand Operations
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=19&duration=3500&pause=1200&color=C9A24B&center=true&vCenter=true&width=640&height=40&lines=No+touch.+No+keys.+Just+your+hand.;Four+modes.+One+gesture+away.;Your+webcam+becomes+the+controller." alt="Typing tagline"/>
 
-**Control your computer with nothing but your hand and a webcam.**
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3.10.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Input](https://img.shields.io/badge/Input-Webcam-111827?style=for-the-badge&logo=opencv&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge)
+![Python](https://img.shields.io/badge/PYTHON-3.10.11-C9A24B?style=flat-square&labelColor=0A0A0A&logo=python&logoColor=C9A24B)
+![Platform](https://img.shields.io/badge/PLATFORM-WINDOWS-C9A24B?style=flat-square&labelColor=0A0A0A&logo=windows&logoColor=C9A24B)
+![Input](https://img.shields.io/badge/INPUT-WEBCAM-C9A24B?style=flat-square&labelColor=0A0A0A&logo=opencv&logoColor=C9A24B)
+![Modes](https://img.shields.io/badge/MODES-4-C9A24B?style=flat-square&labelColor=0A0A0A)
 
-[Features](#-features) · [Quick Start](#-quick-start) · [Modes](#-selecting-a-mode) · [Limitations](#-current-limitations) · [Team](#-team)
+<br/>
 
-<!-- Add a demo GIF here: ![ECHO Demo](assets/demo.gif) -->
+[ **OVERVIEW** ](#-overview) &nbsp;◆&nbsp; [ **MODES** ](#-the-four-modes) &nbsp;◆&nbsp; [ **INSTALL** ](#-installation) &nbsp;◆&nbsp; [ **USAGE** ](#-getting-started) &nbsp;◆&nbsp; [ **TEAM** ](#-the-team)
 
 </div>
 
----
+<br/>
 
-## ✨ Features
+<!-- Add your demo GIF here, centered:
+<div align="center">
+  <img src="assets/demo.gif" width="80%" alt="ECHO in action"/>
+</div>
+-->
 
-ECHO turns hand gestures captured by your webcam into real computer controls, organised into four purpose-built modes.
+## ◆ Overview
 
-| Mode | Fingers | What it's for |
-|------|:-------:|---------------|
-| 🦾 **Assistive** | ☝️ 1 | Accessible, hands-free style control |
-| 📊 **Presentation** | ✌️ 2 | Run slides with gestures |
-| 💬 **Communication** | 🤟 3 | Gesture-driven communication tools |
-| 🎮 **Entertainment** | 🖖 4 | Media and fun interactions |
+**ECHO** is a webcam-powered gesture control system. Hold up your hand and the interface responds. There is no extra hardware, only a camera and your fingertips.
 
----
+Choose a mode with a simple finger count, then control your experience with natural hand movements.
 
-## 🚀 Quick Start
+<br/>
 
-### Prerequisites
-
-> [!IMPORTANT]
-> ECHO was developed and tested on **Python 3.10.x**. Use a 3.10.x version to avoid dependency issues.
-
-- **Recommended:** [Python 3.10.11 (Windows installer, 64-bit)](https://www.python.org/downloads/release/python-31011/)
-- A working webcam
-
-### Installation
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/thansee-r/ECHO.git
-
-# 2. Move into the project folder
-cd ECHO
-
-# 3. (Optional) Open in VS Code
-code .
-
-# 4. Create a virtual environment
-python -m venv .venv
-
-# 5. Activate it (Windows)
-.venv\Scripts\activate
-
-# 6. Install dependencies
-pip install -r requirements.txt
-
-# 7. Run ECHO
-python main.py
-```
-
----
-
-## 🖐️ Selecting a Mode
-
-After launching, hold up the matching number of fingers in front of your webcam:
-
-| Gesture | Mode |
-|:-------:|------|
-| ☝️ **1 finger** | Assistive Mode |
-| ✌️ **2 fingers** | Presentation Mode |
-| 🤟 **3 fingers** | Communication Mode |
-| 🖖 **4 fingers** | Entertainment Mode |
-
-Once a mode is active, follow the **on-screen instructions** to see the available gestures and actions.
-
----
-
-## ⚠️ Current Limitations
-
-- 🤚 Supports **single-hand** gesture recognition only
-- 💡 Performance may vary in **poor or uneven lighting**. Face a light source for best results
-
----
-
-## 👥 Team
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Rishi18360"><b>Rishi Raj A</b></a></td>
-    <td align="center"><a href="https://github.com/ihsansak"><b>Ihsan Sakeer</b></a></td>
-    <td align="center"><a href="https://github.com/thansee-r"><b>Thanseer Ahmed M S</b></a></td>
-    <td align="center"><a href="https://github.com/AshwinSabu05"><b>Ashwin Sabu</b></a></td>
-  </tr>
-</table>
-
----
+## ◆ The Four Modes
 
 <div align="center">
 
-⭐ If you like ECHO, consider giving the repo a star!
+| &nbsp; | Mode | Gesture | Purpose |
+|:--:|:--|:--:|:--|
+| **I** | **Assistive** | `1 finger` | Accessible, hands-free control |
+| **II** | **Presentation** | `2 fingers` | Command your slides with a gesture |
+| **III** | **Communication** | `3 fingers` | Gesture-driven communication |
+| **IV** | **Entertainment** | `4 fingers` | Media and play, untethered |
+
+</div>
+
+<br/>
+
+## ◆ Installation
+
+> [!IMPORTANT]
+> ECHO was developed and tested on **Python 3.10.x**. To avoid dependency conflicts, use this version.
+> **Recommended:** [Python 3.10.11 (Windows installer, 64-bit)](https://www.python.org/downloads/release/python-31011/)
+
+**1 &nbsp;Clone and enter the project**
+
+```bash
+git clone https://github.com/thansee-r/ECHO.git
+cd ECHO
+```
+
+**2 &nbsp;Create and activate a virtual environment**
+
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+```
+
+**3 &nbsp;Install dependencies**
+
+```bash
+pip install -r requirements.txt
+```
+
+**4 &nbsp;Launch**
+
+```bash
+python main.py
+```
+
+<br/>
+
+## ◆ Getting Started
+
+Once ECHO is running, raise your hand to the webcam and hold up the number of fingers for your chosen mode:
+
+<div align="center">
+
+| ☝️ | ✌️ | 🤟 | 🖖 |
+|:--:|:--:|:--:|:--:|
+| **Assistive** | **Presentation** | **Communication** | **Entertainment** |
+
+</div>
+
+After selecting a mode, follow the **on-screen instructions** to discover its gestures and actions.
+
+<br/>
+
+## ◆ Current Limitations
+
+- **Single hand only.** Recognition currently supports one hand at a time.
+- **Lighting matters.** Performance may vary in poor or uneven light. Even, front-facing light gives the best results.
+
+<br/>
+
+## ◆ The Team
+
+<div align="center">
+
+| | | | |
+|:--:|:--:|:--:|:--:|
+| **[Rishi Raj A](https://github.com/Rishi18360)** | **[Ihsan Sakeer](https://github.com/ihsansak)** | **[Thanseer Ahmed M S](https://github.com/thansee-r)** | **[Ashwin Sabu](https://github.com/AshwinSabu05)** |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*If ECHO impressed you, leave a ★ on the repository.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A24B,50:3B2F14,100:0A0A0A&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
