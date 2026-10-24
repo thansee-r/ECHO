@@ -109,48 +109,13 @@ After selecting a mode, follow the **on-screen instructions** to discover its ge
 
 <div align="center">
 
-<sub>CRAFTED BY</sub>
+<sub>◆ &nbsp; C R A F T E D &nbsp; B Y &nbsp; ◆</sub>
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://github.com/Rishi18360">
-        <img src="https://wsrv.nl/?url=github.com/Rishi18360.png&w=240&h=240&fit=cover&mask=circle&maxage=7d" width="110" alt="Rishi Raj A"/>
-      </a>
-      <br/><br/>
-      <b>Rishi Raj A</b>
-      <br/>
-      <a href="https://github.com/Rishi18360"><sub>@Rishi18360</sub></a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/ihsansak">
-        <img src="https://wsrv.nl/?url=github.com/ihsansak.png&w=240&h=240&fit=cover&mask=circle&maxage=7d" width="110" alt="Ihsan Sakeer"/>
-      </a>
-      <br/><br/>
-      <b>Ihsan Sakeer</b>
-      <br/>
-      <a href="https://github.com/ihsansak"><sub>@ihsansak</sub></a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/thansee-r">
-        <img src="https://wsrv.nl/?url=github.com/thansee-r.png&w=240&h=240&fit=cover&mask=circle&maxage=7d" width="110" alt="Thanseer Ahmed M S"/>
-      </a>
-      <br/><br/>
-      <b>Thanseer Ahmed M S</b>
-      <br/>
-      <a href="https://github.com/thansee-r"><sub>@thansee-r</sub></a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/AshwinSabu05">
-        <img src="https://wsrv.nl/?url=github.com/AshwinSabu05.png&w=240&h=240&fit=cover&mask=circle&maxage=7d" width="110" alt="Ashwin Sabu"/>
-      </a>
-      <br/><br/>
-      <b>Ashwin Sabu</b>
-      <br/>
-      <a href="https://github.com/AshwinSabu05"><sub>@AshwinSabu05</sub></a>
-    </td>
-  </tr>
-</table>
+<br/><br/>
+
+[![RISHI RAJ A](https://img.shields.io/badge/-RISHI%20RAJ%20A-0A0A0A?style=for-the-badge&logo=github&logoColor=C9A24B)](https://github.com/Rishi18360) &nbsp; [![IHSAN SAKEER](https://img.shields.io/badge/-IHSAN%20SAKEER-0A0A0A?style=for-the-badge&logo=github&logoColor=C9A24B)](https://github.com/ihsansak)
+
+[![THANSEER AHMED M S](https://img.shields.io/badge/-THANSEER%20AHMED%20M%20S-0A0A0A?style=for-the-badge&logo=github&logoColor=C9A24B)](https://github.com/thansee-r) &nbsp; [![ASHWIN SABU](https://img.shields.io/badge/-ASHWIN%20SABU-0A0A0A?style=for-the-badge&logo=github&logoColor=C9A24B)](https://github.com/AshwinSabu05)
 
 </div>
 
