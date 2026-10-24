@@ -17,7 +17,7 @@ Real-time hand-gesture recognition through your webcam. No mouse, no keyboard, n
 
 ---
 
-## ✨ Features
+## Features
 
 - 🖐️ **Touch-free control**: everything runs through hand gestures
 - 🎛️ **Four modes**: switch instantly by holding up fingers
@@ -26,7 +26,7 @@ Real-time hand-gesture recognition through your webcam. No mouse, no keyboard, n
 
 ---
 
-## 🎯 Modes
+## Modes
 
 After launching ECHO, hold up fingers in front of the webcam to pick a mode:
 
@@ -41,7 +41,7 @@ Once a mode is selected, follow the on-screen instructions to use the available 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
