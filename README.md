@@ -103,32 +103,64 @@ After selecting a mode, follow the **on-screen instructions** to discover its ge
 
 <div align="center">
 
-```text
-╔════════════════════════════════════════╗
-║                                        ║
-║          C R A F T E D   B Y           ║
-║      ──────────── ◆ ────────────       ║
-║                                        ║
-║     I     RISHI RAJ A                  ║
-║                                        ║
-║     II    IHSAN SAKEER                 ║
-║                                        ║
-║     III   THANSEER AHMED M S           ║
-║                                        ║
-║     IV    ASHWIN SABU                  ║
-║                                        ║
-║      ──────────── ◆ ────────────       ║
-║                E C H O                 ║
-║                                        ║
-╚════════════════════════════════════════╝
-```
+<sub>◆ &nbsp; T H E &nbsp; P E O P L E &nbsp; B E H I N D &nbsp; E C H O &nbsp; ◆</sub>
 
-<sub>
-<a href="https://github.com/Rishi18360"><b>RISHI RAJ A</b></a> &nbsp;◆&nbsp;
-<a href="https://github.com/ihsansak"><b>IHSAN SAKEER</b></a> &nbsp;◆&nbsp;
-<a href="https://github.com/thansee-r"><b>THANSEER AHMED M S</b></a> &nbsp;◆&nbsp;
-<a href="https://github.com/AshwinSabu05"><b>ASHWIN SABU</b></a>
-</sub>
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=3&section=header" width="70%" alt=""/>
+      <br/><br/>
+      <a href="https://github.com/Rishi18360"><img src="https://wsrv.nl/?url=github.com/Rishi18360.png&w=260&h=260&fit=cover&mask=circle&maxage=7d" width="120" alt="Rishi Raj A"/></a>
+      <br/><br/>
+      <b>RISHI RAJ A</b>
+      <br/>
+      <sub><i>@Rishi18360</i></sub>
+      <br/><br/>
+      <a href="https://github.com/Rishi18360"><img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-C9A24B?style=flat-square&labelColor=0A0A0A&logo=github&logoColor=C9A24B" alt="Rishi Raj A on GitHub"/></a>
+      <br/><br/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=3&section=header" width="70%" alt=""/>
+      <br/><br/>
+      <a href="https://github.com/ihsansak"><img src="https://wsrv.nl/?url=github.com/ihsansak.png&w=260&h=260&fit=cover&mask=circle&maxage=7d" width="120" alt="Ihsan Sakeer"/></a>
+      <br/><br/>
+      <b>IHSAN SAKEER</b>
+      <br/>
+      <sub><i>@ihsansak</i></sub>
+      <br/><br/>
+      <a href="https://github.com/ihsansak"><img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-C9A24B?style=flat-square&labelColor=0A0A0A&logo=github&logoColor=C9A24B" alt="Ihsan Sakeer on GitHub"/></a>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=3&section=header" width="70%" alt=""/>
+      <br/><br/>
+      <a href="https://github.com/thansee-r"><img src="https://wsrv.nl/?url=github.com/thansee-r.png&w=260&h=260&fit=cover&mask=circle&maxage=7d" width="120" alt="Thanseer Ahmed M S"/></a>
+      <br/><br/>
+      <b>THANSEER AHMED M S</b>
+      <br/>
+      <sub><i>@thansee-r</i></sub>
+      <br/><br/>
+      <a href="https://github.com/thansee-r"><img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-C9A24B?style=flat-square&labelColor=0A0A0A&logo=github&logoColor=C9A24B" alt="Thanseer Ahmed M S on GitHub"/></a>
+      <br/><br/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=3&section=header" width="70%" alt=""/>
+      <br/><br/>
+      <a href="https://github.com/AshwinSabu05"><img src="https://wsrv.nl/?url=github.com/AshwinSabu05.png&w=260&h=260&fit=cover&mask=circle&maxage=7d" width="120" alt="Ashwin Sabu"/></a>
+      <br/><br/>
+      <b>ASHWIN SABU</b>
+      <br/>
+      <sub><i>@AshwinSabu05</i></sub>
+      <br/><br/>
+      <a href="https://github.com/AshwinSabu05"><img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-C9A24B?style=flat-square&labelColor=0A0A0A&logo=github&logoColor=C9A24B" alt="Ashwin Sabu on GitHub"/></a>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
