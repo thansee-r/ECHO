@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖐️ ECHO
+# 🖐️ Enhanced Controls using Hand Operations (ECHO)
 
 ### Control your computer with nothing but your hand.
 
