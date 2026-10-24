@@ -107,15 +107,15 @@ After selecting a mode, follow the **on-screen instructions** to discover its ge
 
 <br/>
 
-<sub>◆ &nbsp; T A P &nbsp; A &nbsp; N A M E &nbsp; T O &nbsp; M E E T &nbsp; T H E M &nbsp; ◆</sub>
+<sub>◆ &nbsp; T A P &nbsp; A &nbsp; N A M E &nbsp; T O &nbsp; R E V E A L &nbsp; ◆</sub>
 
 <br/><br/>
 
 <details>
-<summary><b>◆ &nbsp; I &nbsp;·&nbsp; RISHI RAJ A</b></summary>
+<summary><b>I &nbsp;·&nbsp; RISHI RAJ A</b></summary>
 <br/>
-<a href="https://github.com/Rishi18360"><img src="https://wsrv.nl/?url=github.com/Rishi18360.png&w=300&h=300&fit=cover&mask=circle&maxage=7d" width="130" alt="Rishi Raj A"/></a>
-<br/><br/>
+<a href="https://github.com/Rishi18360"><img src="https://wsrv.nl/?url=github.com/Rishi18360.png&w=240&h=240&fit=cover&mask=circle&maxage=7d" width="110" alt="Rishi Raj A"/></a>
+<br/>
 <sub><i>@Rishi18360</i></sub>
 <br/><br/>
 <a href="https://github.com/Rishi18360"><img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-C9A24B?style=flat-square&labelColor=0A0A0A&logo=github&logoColor=C9A24B" alt="Rishi Raj A on GitHub"/></a>
@@ -123,10 +123,10 @@ After selecting a mode, follow the **on-screen instructions** to discover its ge
 </details>
 
 <details>
-<summary><b>◆ &nbsp; II &nbsp;·&nbsp; IHSAN SAKEER</b></summary>
+<summary><b>II &nbsp;·&nbsp; IHSAN SAKEER</b></summary>
 <br/>
-<a href="https://github.com/ihsansak"><img src="https://wsrv.nl/?url=github.com/ihsansak.png&w=300&h=300&fit=cover&mask=circle&maxage=7d" width="130" alt="Ihsan Sakeer"/></a>
-<br/><br/>
+<a href="https://github.com/ihsansak"><img src="https://wsrv.nl/?url=github.com/ihsansak.png&w=240&h=240&fit=cover&mask=circle&maxage=7d" width="110" alt="Ihsan Sakeer"/></a>
+<br/>
 <sub><i>@ihsansak</i></sub>
 <br/><br/>
 <a href="https://github.com/ihsansak"><img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-C9A24B?style=flat-square&labelColor=0A0A0A&logo=github&logoColor=C9A24B" alt="Ihsan Sakeer on GitHub"/></a>
@@ -134,10 +134,10 @@ After selecting a mode, follow the **on-screen instructions** to discover its ge
 </details>
 
 <details>
-<summary><b>◆ &nbsp; III &nbsp;·&nbsp; THANSEER AHMED M S</b></summary>
+<summary><b>III &nbsp;·&nbsp; THANSEER AHMED M S</b></summary>
 <br/>
-<a href="https://github.com/thansee-r"><img src="https://wsrv.nl/?url=github.com/thansee-r.png&w=300&h=300&fit=cover&mask=circle&maxage=7d" width="130" alt="Thanseer Ahmed M S"/></a>
-<br/><br/>
+<a href="https://github.com/thansee-r"><img src="https://wsrv.nl/?url=github.com/thansee-r.png&w=240&h=240&fit=cover&mask=circle&maxage=7d" width="110" alt="Thanseer Ahmed M S"/></a>
+<br/>
 <sub><i>@thansee-r</i></sub>
 <br/><br/>
 <a href="https://github.com/thansee-r"><img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-C9A24B?style=flat-square&labelColor=0A0A0A&logo=github&logoColor=C9A24B" alt="Thanseer Ahmed M S on GitHub"/></a>
@@ -145,10 +145,10 @@ After selecting a mode, follow the **on-screen instructions** to discover its ge
 </details>
 
 <details>
-<summary><b>◆ &nbsp; IV &nbsp;·&nbsp; ASHWIN SABU</b></summary>
+<summary><b>IV &nbsp;·&nbsp; ASHWIN SABU</b></summary>
 <br/>
-<a href="https://github.com/AshwinSabu05"><img src="https://wsrv.nl/?url=github.com/AshwinSabu05.png&w=300&h=300&fit=cover&mask=circle&maxage=7d" width="130" alt="Ashwin Sabu"/></a>
-<br/><br/>
+<a href="https://github.com/AshwinSabu05"><img src="https://wsrv.nl/?url=github.com/AshwinSabu05.png&w=240&h=240&fit=cover&mask=circle&maxage=7d" width="110" alt="Ashwin Sabu"/></a>
+<br/>
 <sub><i>@AshwinSabu05</i></sub>
 <br/><br/>
 <a href="https://github.com/AshwinSabu05"><img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-C9A24B?style=flat-square&labelColor=0A0A0A&logo=github&logoColor=C9A24B" alt="Ashwin Sabu on GitHub"/></a>
