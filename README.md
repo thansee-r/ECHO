@@ -103,31 +103,61 @@ After selecting a mode, follow the **on-screen instructions** to discover its ge
 
 <div align="center">
 
-<sub>◆ &nbsp; C R A F T E D &nbsp; B Y &nbsp; ◆</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=3&section=header" width="60%" alt=""/>
+
+<br/>
+
+<sub>◆ &nbsp; T A P &nbsp; A &nbsp; N A M E &nbsp; T O &nbsp; M E E T &nbsp; T H E M &nbsp; ◆</sub>
 
 <br/><br/>
 
-<a href="https://github.com/Rishi18360"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:8A6A22,50:E8D08A,100:8A6A22&height=64&text=I%20%C2%B7%20RISHI%20RAJ%20A&fontSize=22&fontColor=0A0A0A&fontAlignY=52" width="70%" alt="Rishi Raj A"/></a>
+<details>
+<summary><b>◆ &nbsp; I &nbsp;·&nbsp; RISHI RAJ A</b></summary>
 <br/>
+<a href="https://github.com/Rishi18360"><img src="https://wsrv.nl/?url=github.com/Rishi18360.png&w=300&h=300&fit=cover&mask=circle&maxage=7d" width="130" alt="Rishi Raj A"/></a>
+<br/><br/>
 <sub><i>@Rishi18360</i></sub>
+<br/><br/>
+<a href="https://github.com/Rishi18360"><img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-C9A24B?style=flat-square&labelColor=0A0A0A&logo=github&logoColor=C9A24B" alt="Rishi Raj A on GitHub"/></a>
+<br/><br/>
+</details>
 
+<details>
+<summary><b>◆ &nbsp; II &nbsp;·&nbsp; IHSAN SAKEER</b></summary>
 <br/>
-
-<a href="https://github.com/ihsansak"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:8A6A22,50:E8D08A,100:8A6A22&height=64&text=II%20%C2%B7%20IHSAN%20SAKEER&fontSize=22&fontColor=0A0A0A&fontAlignY=52" width="70%" alt="Ihsan Sakeer"/></a>
-<br/>
+<a href="https://github.com/ihsansak"><img src="https://wsrv.nl/?url=github.com/ihsansak.png&w=300&h=300&fit=cover&mask=circle&maxage=7d" width="130" alt="Ihsan Sakeer"/></a>
+<br/><br/>
 <sub><i>@ihsansak</i></sub>
+<br/><br/>
+<a href="https://github.com/ihsansak"><img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-C9A24B?style=flat-square&labelColor=0A0A0A&logo=github&logoColor=C9A24B" alt="Ihsan Sakeer on GitHub"/></a>
+<br/><br/>
+</details>
 
+<details>
+<summary><b>◆ &nbsp; III &nbsp;·&nbsp; THANSEER AHMED M S</b></summary>
 <br/>
-
-<a href="https://github.com/thansee-r"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:8A6A22,50:E8D08A,100:8A6A22&height=64&text=III%20%C2%B7%20THANSEER%20AHMED%20M%20S&fontSize=22&fontColor=0A0A0A&fontAlignY=52" width="70%" alt="Thanseer Ahmed M S"/></a>
-<br/>
+<a href="https://github.com/thansee-r"><img src="https://wsrv.nl/?url=github.com/thansee-r.png&w=300&h=300&fit=cover&mask=circle&maxage=7d" width="130" alt="Thanseer Ahmed M S"/></a>
+<br/><br/>
 <sub><i>@thansee-r</i></sub>
+<br/><br/>
+<a href="https://github.com/thansee-r"><img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-C9A24B?style=flat-square&labelColor=0A0A0A&logo=github&logoColor=C9A24B" alt="Thanseer Ahmed M S on GitHub"/></a>
+<br/><br/>
+</details>
 
+<details>
+<summary><b>◆ &nbsp; IV &nbsp;·&nbsp; ASHWIN SABU</b></summary>
 <br/>
-
-<a href="https://github.com/AshwinSabu05"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:8A6A22,50:E8D08A,100:8A6A22&height=64&text=IV%20%C2%B7%20ASHWIN%20SABU&fontSize=22&fontColor=0A0A0A&fontAlignY=52" width="70%" alt="Ashwin Sabu"/></a>
-<br/>
+<a href="https://github.com/AshwinSabu05"><img src="https://wsrv.nl/?url=github.com/AshwinSabu05.png&w=300&h=300&fit=cover&mask=circle&maxage=7d" width="130" alt="Ashwin Sabu"/></a>
+<br/><br/>
 <sub><i>@AshwinSabu05</i></sub>
+<br/><br/>
+<a href="https://github.com/AshwinSabu05"><img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-C9A24B?style=flat-square&labelColor=0A0A0A&logo=github&logoColor=C9A24B" alt="Ashwin Sabu on GitHub"/></a>
+<br/><br/>
+</details>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=3&section=header" width="60%" alt=""/>
 
 </div>
 
