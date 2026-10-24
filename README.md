@@ -103,35 +103,32 @@ After selecting a mode, follow the **on-screen instructions** to discover its ge
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=3&section=header" width="60%" alt=""/>
+```text
+╔════════════════════════════════════════╗
+║                                        ║
+║          C R A F T E D   B Y           ║
+║      ──────────── ◆ ────────────       ║
+║                                        ║
+║     I     RISHI RAJ A                  ║
+║                                        ║
+║     II    IHSAN SAKEER                 ║
+║                                        ║
+║     III   THANSEER AHMED M S           ║
+║                                        ║
+║     IV    ASHWIN SABU                  ║
+║                                        ║
+║      ──────────── ◆ ────────────       ║
+║                E C H O                 ║
+║                                        ║
+╚════════════════════════════════════════╝
+```
 
-<br/>
-
-<sub>T H E &nbsp; M I N D S &nbsp; B E H I N D &nbsp; E C H O</sub>
-
-<br/><br/>
-
-### [Rishi Raj A](https://github.com/Rishi18360)
-<sub><i>@Rishi18360</i></sub>
-
-◆
-
-### [Ihsan Sakeer](https://github.com/ihsansak)
-<sub><i>@ihsansak</i></sub>
-
-◆
-
-### [Thanseer Ahmed M S](https://github.com/thansee-r)
-<sub><i>@thansee-r</i></sub>
-
-◆
-
-### [Ashwin Sabu](https://github.com/AshwinSabu05)
-<sub><i>@AshwinSabu05</i></sub>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=3&section=header" width="60%" alt=""/>
+<sub>
+<a href="https://github.com/Rishi18360"><b>RISHI RAJ A</b></a> &nbsp;◆&nbsp;
+<a href="https://github.com/ihsansak"><b>IHSAN SAKEER</b></a> &nbsp;◆&nbsp;
+<a href="https://github.com/thansee-r"><b>THANSEER AHMED M S</b></a> &nbsp;◆&nbsp;
+<a href="https://github.com/AshwinSabu05"><b>ASHWIN SABU</b></a>
+</sub>
 
 </div>
 
