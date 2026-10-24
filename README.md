@@ -109,13 +109,36 @@ After selecting a mode, follow the **on-screen instructions** to discover its ge
 
 <div align="center">
 
-<sub>◆ &nbsp; C R A F T E D &nbsp; B Y &nbsp; ◆</sub>
+<sub>◆ &nbsp; T H E &nbsp; A T E L I E R &nbsp; ◆</sub>
 
-<br/><br/>
+<br/>
 
-[![RISHI RAJ A](https://img.shields.io/badge/-RISHI%20RAJ%20A-0A0A0A?style=for-the-badge&logo=github&logoColor=C9A24B)](https://github.com/Rishi18360) &nbsp; [![IHSAN SAKEER](https://img.shields.io/badge/-IHSAN%20SAKEER-0A0A0A?style=for-the-badge&logo=github&logoColor=C9A24B)](https://github.com/ihsansak)
-
-[![THANSEER AHMED M S](https://img.shields.io/badge/-THANSEER%20AHMED%20M%20S-0A0A0A?style=for-the-badge&logo=github&logoColor=C9A24B)](https://github.com/thansee-r) &nbsp; [![ASHWIN SABU](https://img.shields.io/badge/-ASHWIN%20SABU-0A0A0A?style=for-the-badge&logo=github&logoColor=C9A24B)](https://github.com/AshwinSabu05)
+<table>
+  <tr>
+    <td align="center" width="60"><sub><b>I</b></sub></td>
+    <td align="center" width="80"><a href="https://github.com/Rishi18360"><img src="https://wsrv.nl/?url=github.com/Rishi18360.png&w=120&h=120&fit=cover&mask=circle&maxage=7d" width="52" alt="Rishi Raj A"/></a></td>
+    <td align="left" width="260"><b>Rishi Raj A</b><br/><sub>@Rishi18360</sub></td>
+    <td align="center" width="140"><a href="https://github.com/Rishi18360"><sub><b>VIEW PROFILE &nbsp;→</b></sub></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="60"><sub><b>II</b></sub></td>
+    <td align="center" width="80"><a href="https://github.com/ihsansak"><img src="https://wsrv.nl/?url=github.com/ihsansak.png&w=120&h=120&fit=cover&mask=circle&maxage=7d" width="52" alt="Ihsan Sakeer"/></a></td>
+    <td align="left" width="260"><b>Ihsan Sakeer</b><br/><sub>@ihsansak</sub></td>
+    <td align="center" width="140"><a href="https://github.com/ihsansak"><sub><b>VIEW PROFILE &nbsp;→</b></sub></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="60"><sub><b>III</b></sub></td>
+    <td align="center" width="80"><a href="https://github.com/thansee-r"><img src="https://wsrv.nl/?url=github.com/thansee-r.png&w=120&h=120&fit=cover&mask=circle&maxage=7d" width="52" alt="Thanseer Ahmed M S"/></a></td>
+    <td align="left" width="260"><b>Thanseer Ahmed M S</b><br/><sub>@thansee-r</sub></td>
+    <td align="center" width="140"><a href="https://github.com/thansee-r"><sub><b>VIEW PROFILE &nbsp;→</b></sub></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="60"><sub><b>IV</b></sub></td>
+    <td align="center" width="80"><a href="https://github.com/AshwinSabu05"><img src="https://wsrv.nl/?url=github.com/AshwinSabu05.png&w=120&h=120&fit=cover&mask=circle&maxage=7d" width="52" alt="Ashwin Sabu"/></a></td>
+    <td align="left" width="260"><b>Ashwin Sabu</b><br/><sub>@AshwinSabu05</sub></td>
+    <td align="center" width="140"><a href="https://github.com/AshwinSabu05"><sub><b>VIEW PROFILE &nbsp;→</b></sub></a></td>
+  </tr>
+</table>
 
 </div>
 
