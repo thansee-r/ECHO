@@ -1,135 +1,207 @@
 <div align="center">
 
-# 🖐️ Enhanced Controls using Hand Operations (ECHO)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ECHO&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Gesture%20Control%20%E2%80%A2%20Zero%20Touch&descAlignY=60&descSize=20" width="100%" alt="ECHO banner"/>
 
-### Control your computer with nothing but your hand.
+<a href="https://github.com/thansee-r/ECHO">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=600&lines=Control+your+computer+with+your+hand;No+mouse.+No+keyboard.+Just+a+webcam.;1+finger+%E2%86%92+4+fingers+%E2%86%92+4+modes" alt="Typing tagline"/>
+</a>
 
-Real-time hand-gesture recognition through your webcam. No mouse, no keyboard, no extra hardware.
+<br/>
 
 ![Python](https://img.shields.io/badge/Python-3.10.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Input](https://img.shields.io/badge/Input-Webcam-black?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Webcam](https://img.shields.io/badge/Input-Webcam-111827?style=for-the-badge&logo=opencv&logoColor=00D4FF)
+![Gestures](https://img.shields.io/badge/Mode-Real--Time-00D4FF?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/thansee-r/ECHO?style=for-the-badge&color=yellow)
+![Forks](https://img.shields.io/github/forks/thansee-r/ECHO?style=for-the-badge&color=blue)
 
-[Features](#-features) • [Modes](#-modes) • [Getting Started](#-getting-started) • [Limitations](#-current-limitations) • [Team](#-the-team)
+<br/>
+
+**[✨ Features](#-features) · [🎯 Modes](#-modes) · [🚀 Quick Start](#-quick-start) · [⚠️ Limitations](#️-limitations) · [👥 Team](#-meet-the-team)**
 
 </div>
 
 ---
 
-## Features
+## 🎬 See It in Action
 
-- 🖐️ **Touch-free control**: everything runs through hand gestures
-- 🎛️ **Four modes**: switch instantly by holding up fingers
-- 📷 **Webcam only**: no special hardware needed
-- ⚡ **Real-time recognition** with on-screen guidance
+<div align="center">
 
----
+<!-- Replace with your own demo GIF -->
+<!-- <img src="assets/demo.gif" width="80%" alt="ECHO demo"/> -->
 
-## Modes
+| 🦾 Assistive | 📊 Presentation | 💬 Communication | 🎮 Entertainment |
+|:---:|:---:|:---:|:---:|
+| <!-- <img src="assets/assistive.gif" width="200"/> --> | <!-- <img src="assets/presentation.gif" width="200"/> --> | <!-- <img src="assets/communication.gif" width="200"/> --> | <!-- <img src="assets/entertainment.gif" width="200"/> --> |
 
-After launching ECHO, hold up fingers in front of the webcam to pick a mode:
-
-| Fingers | Mode | Purpose |
-|:-------:|------|---------|
-| ☝️ **1** | 🦾 **Assistive** | <!-- short description --> |
-| ✌️ **2** | 📊 **Presentation** | <!-- short description --> |
-| 🤟 **3** | 💬 **Communication** | <!-- short description --> |
-| 🖖 **4** | 🎮 **Entertainment** | <!-- short description --> |
-
-Once a mode is selected, follow the on-screen instructions to use the available gestures.
+</div>
 
 ---
 
-## Getting Started
+## ✨ Features
 
-### Prerequisites
+<table>
+<tr>
+<td width="50%">
 
-> ⚠️ ECHO was developed and tested on **Python 3.10.x**. Use this version to avoid dependency issues.
+### 🖐️ Touch-Free Control
+Navigate everything with hand gestures alone.
 
-**Recommended:** [Python 3.10.11 (Windows installer, 64-bit)](https://www.python.org/downloads/release/python-31011/)
+</td>
+<td width="50%">
 
-### Installation
+### 🎛️ 4 Smart Modes
+Switch instantly by holding up fingers.
 
-**1. Clone the repository**
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📷 Webcam Only
+No gloves, sensors or special hardware.
+
+</td>
+<td width="50%">
+
+### ⚡ Real-Time
+Live recognition with on-screen guidance.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Modes
+
+Hold up fingers in front of the webcam right after launch to choose a mode.
+
+```mermaid
+flowchart LR
+    A([🖐️ Launch ECHO]) --> B{Show fingers}
+    B -->|☝️ 1| C[🦾 Assistive]
+    B -->|✌️ 2| D[📊 Presentation]
+    B -->|🤟 3| E[💬 Communication]
+    B -->|🖖 4| F[🎮 Entertainment]
+    C --> G([Follow on-screen gestures])
+    D --> G
+    E --> G
+    F --> G
+```
+
+| Fingers | Mode | What it does |
+|:---:|---|---|
+| ☝️ | **Assistive** | <!-- one-line description --> |
+| ✌️ | **Presentation** | <!-- one-line description --> |
+| 🤟 | **Communication** | <!-- one-line description --> |
+| 🖖 | **Entertainment** | <!-- one-line description --> |
+
+---
+
+## 🚀 Quick Start
+
+> [!IMPORTANT]
+> ECHO was developed and tested on **Python 3.10.x**. Stick to this version to avoid dependency issues.
+> Recommended: [**Python 3.10.11** (Windows installer, 64-bit)](https://www.python.org/downloads/release/python-31011/)
+
 ```bash
+# 1️⃣ Clone
 git clone https://github.com/thansee-r/ECHO.git
 cd ECHO
-```
 
-**2. (Optional) Open in VS Code**
-```bash
-code .
-```
-
-**3. Create a virtual environment**
-```bash
+# 2️⃣ Create a virtual environment
 python -m venv .venv
-```
 
-**4. Activate it**
-```bash
-# Windows
-.venv\Scripts\activate
+# 3️⃣ Activate it
+.venv\Scripts\activate          # Windows
+# source .venv/bin/activate     # macOS / Linux
 
-# macOS / Linux
-source .venv/bin/activate
-```
-
-**5. Install dependencies**
-```bash
+# 4️⃣ Install dependencies
 pip install -r requirements.txt
-```
 
-**6. Run ECHO**
-```bash
+# 5️⃣ Launch 🚀
 python main.py
 ```
 
+<details>
+<summary><b>💻 Prefer VS Code?</b></summary>
+
+<br/>
+
+```bash
+cd ECHO
+code .
+```
+
+Then open the integrated terminal (`` Ctrl + ` ``) and continue from step 2 above.
+
+</details>
+
 ---
 
-## ⚠️ Current Limitations
+## ⚠️ Limitations
 
-- ✋ Supports **single-hand** gesture recognition only
-- 💡 Performance may vary in **poor or uneven lighting**
+> [!WARNING]
+> - ✋ Supports **single-hand** gesture recognition only
+> - 💡 Performance may drop in **poor or uneven lighting**
 
 ---
 
-## The Team
+## 🛠️ Built With
 
-<table align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<!-- Add your libraries, for example: -->
+<!-- ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) -->
+<!-- ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) -->
+
+---
+
+## 👥 Meet the Team
+
+<div align="center">
+
+<table>
   <tr>
-    <td align="center">
+    <td align="center" width="180">
       <a href="https://github.com/Rishi18360">
-        <img src="https://github.com/Rishi18360.png?size=100" width="100" alt="Rishi Raj A"/><br/>
-        <sub><b>Rishi Raj A</b></sub>
-      </a>
+        <img src="https://github.com/Rishi18360.png?size=120" width="110" style="border-radius:50%" alt="Rishi Raj A"/><br/><br/>
+        <b>Rishi Raj A</b>
+      </a><br/>
+      <sub>@Rishi18360</sub>
     </td>
-    <td align="center">
+    <td align="center" width="180">
       <a href="https://github.com/ihsansak">
-        <img src="https://github.com/ihsansak.png?size=100" width="100" alt="Ihsan Sakeer"/><br/>
-        <sub><b>Ihsan Sakeer</b></sub>
-      </a>
+        <img src="https://github.com/ihsansak.png?size=120" width="110" style="border-radius:50%" alt="Ihsan Sakeer"/><br/><br/>
+        <b>Ihsan Sakeer</b>
+      </a><br/>
+      <sub>@ihsansak</sub>
     </td>
-    <td align="center">
+    <td align="center" width="180">
       <a href="https://github.com/thansee-r">
-        <img src="https://github.com/thansee-r.png?size=100" width="100" alt="Thanseer Ahmed M S"/><br/>
-        <sub><b>Thanseer Ahmed M S</b></sub>
-      </a>
+        <img src="https://github.com/thansee-r.png?size=120" width="110" style="border-radius:50%" alt="Thanseer Ahmed M S"/><br/><br/>
+        <b>Thanseer Ahmed M S</b>
+      </a><br/>
+      <sub>@thansee-r</sub>
     </td>
-    <td align="center">
+    <td align="center" width="180">
       <a href="https://github.com/AshwinSabu05">
-        <img src="https://github.com/AshwinSabu05.png?size=100" width="100" alt="Ashwin Sabu"/><br/>
-        <sub><b>Ashwin Sabu</b></sub>
-      </a>
+        <img src="https://github.com/AshwinSabu05.png?size=120" width="110" style="border-radius:50%" alt="Ashwin Sabu"/><br/><br/>
+        <b>Ashwin Sabu</b>
+      </a><br/>
+      <sub>@AshwinSabu05</sub>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
 <div align="center">
 
-⭐ If you like ECHO, consider giving it a star!
+### ⭐ Like ECHO? Give it a star!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
