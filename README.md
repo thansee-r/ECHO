@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ECHO&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Gesture%20Control%20%E2%80%A2%20Zero%20Touch&descAlignY=60&descSize=20" width="100%" alt="ECHO banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Enhanced Controls using Hand Operations&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Gesture%20Control%20%E2%80%A2%20Zero%20Touch&descAlignY=60&descSize=20" width="100%" alt="ECHO banner"/>
 
 <a href="https://github.com/thansee-r/ECHO">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=600&lines=Control+your+computer+with+your+hand;No+mouse.+No+keyboard.+Just+a+webcam.;1+finger+%E2%86%92+4+fingers+%E2%86%92+4+modes" alt="Typing tagline"/>
