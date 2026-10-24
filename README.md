@@ -16,7 +16,7 @@ Download : https://www.python.org/downloads/release/python-31011/
 
 Step 1 : Clone the repository
 
--> git clone https://github.com/Rishi18360/ECHO.git
+-> git clone https://github.com/thansee-r/ECHO.git
 
 Step 2: Navigate to the project folder
 
