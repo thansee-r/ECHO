@@ -109,9 +109,48 @@ After selecting a mode, follow the **on-screen instructions** to discover its ge
 
 <div align="center">
 
-| | | | |
-|:--:|:--:|:--:|:--:|
-| **[Rishi Raj A](https://github.com/Rishi18360)** | **[Ihsan Sakeer](https://github.com/ihsansak)** | **[Thanseer Ahmed M S](https://github.com/thansee-r)** | **[Ashwin Sabu](https://github.com/AshwinSabu05)** |
+<sub>CRAFTED BY</sub>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/Rishi18360">
+        <img src="https://wsrv.nl/?url=github.com/Rishi18360.png&w=240&h=240&fit=cover&mask=circle&maxage=7d" width="110" alt="Rishi Raj A"/>
+      </a>
+      <br/><br/>
+      <b>Rishi Raj A</b>
+      <br/>
+      <a href="https://github.com/Rishi18360"><sub>@Rishi18360</sub></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/ihsansak">
+        <img src="https://wsrv.nl/?url=github.com/ihsansak.png&w=240&h=240&fit=cover&mask=circle&maxage=7d" width="110" alt="Ihsan Sakeer"/>
+      </a>
+      <br/><br/>
+      <b>Ihsan Sakeer</b>
+      <br/>
+      <a href="https://github.com/ihsansak"><sub>@ihsansak</sub></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/thansee-r">
+        <img src="https://wsrv.nl/?url=github.com/thansee-r.png&w=240&h=240&fit=cover&mask=circle&maxage=7d" width="110" alt="Thanseer Ahmed M S"/>
+      </a>
+      <br/><br/>
+      <b>Thanseer Ahmed M S</b>
+      <br/>
+      <a href="https://github.com/thansee-r"><sub>@thansee-r</sub></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/AshwinSabu05">
+        <img src="https://wsrv.nl/?url=github.com/AshwinSabu05.png&w=240&h=240&fit=cover&mask=circle&maxage=7d" width="110" alt="Ashwin Sabu"/>
+      </a>
+      <br/><br/>
+      <b>Ashwin Sabu</b>
+      <br/>
+      <a href="https://github.com/AshwinSabu05"><sub>@AshwinSabu05</sub></a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
