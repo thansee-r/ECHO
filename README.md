@@ -95,7 +95,7 @@ python main.py
 
 ---
 
-## 👥 The Team
+## The Team
 
 <table align="center">
   <tr>
