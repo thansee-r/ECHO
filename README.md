@@ -107,63 +107,75 @@ After selecting a mode, follow the **on-screen instructions** to discover its ge
 
 <br/>
 
-<sub>◆ &nbsp; T A P &nbsp; A &nbsp; N A M E &nbsp; T O &nbsp; R E V E A L &nbsp; ◆</sub>
-
-<br/><br/>
-
-<details>
-<summary><b>I &nbsp;·&nbsp; RISHI RAJ A</b></summary>
-<br/>
-<a href="https://github.com/Rishi18360"><img src="https://wsrv.nl/?url=github.com/Rishi18360.png&w=240&h=240&fit=cover&mask=circle&maxage=7d" width="110" alt="Rishi Raj A"/></a>
-<br/>
-<sub><i>@Rishi18360</i></sub>
-<br/><br/>
-<a href="https://github.com/Rishi18360"><img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-C9A24B?style=flat-square&labelColor=0A0A0A&logo=github&logoColor=C9A24B" alt="Rishi Raj A on GitHub"/></a>
-<br/><br/>
-</details>
-
-<details>
-<summary><b>II &nbsp;·&nbsp; IHSAN SAKEER</b></summary>
-<br/>
-<a href="https://github.com/ihsansak"><img src="https://wsrv.nl/?url=github.com/ihsansak.png&w=240&h=240&fit=cover&mask=circle&maxage=7d" width="110" alt="Ihsan Sakeer"/></a>
-<br/>
-<sub><i>@ihsansak</i></sub>
-<br/><br/>
-<a href="https://github.com/ihsansak"><img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-C9A24B?style=flat-square&labelColor=0A0A0A&logo=github&logoColor=C9A24B" alt="Ihsan Sakeer on GitHub"/></a>
-<br/><br/>
-</details>
-
-<details>
-<summary><b>III &nbsp;·&nbsp; THANSEER AHMED M S</b></summary>
-<br/>
-<a href="https://github.com/thansee-r"><img src="https://wsrv.nl/?url=github.com/thansee-r.png&w=240&h=240&fit=cover&mask=circle&maxage=7d" width="110" alt="Thanseer Ahmed M S"/></a>
-<br/>
-<sub><i>@thansee-r</i></sub>
-<br/><br/>
-<a href="https://github.com/thansee-r"><img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-C9A24B?style=flat-square&labelColor=0A0A0A&logo=github&logoColor=C9A24B" alt="Thanseer Ahmed M S on GitHub"/></a>
-<br/><br/>
-</details>
-
-<details>
-<summary><b>IV &nbsp;·&nbsp; ASHWIN SABU</b></summary>
-<br/>
-<a href="https://github.com/AshwinSabu05"><img src="https://wsrv.nl/?url=github.com/AshwinSabu05.png&w=240&h=240&fit=cover&mask=circle&maxage=7d" width="110" alt="Ashwin Sabu"/></a>
-<br/>
-<sub><i>@AshwinSabu05</i></sub>
-<br/><br/>
-<a href="https://github.com/AshwinSabu05"><img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-C9A24B?style=flat-square&labelColor=0A0A0A&logo=github&logoColor=C9A24B" alt="Ashwin Sabu on GitHub"/></a>
-<br/><br/>
-</details>
+<sub>◆ &nbsp; T H E &nbsp; I N N E R &nbsp; C I R C L E &nbsp; ◆</sub>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=3&section=header" width="60%" alt=""/>
+<sub><i>Click a name to reveal the member</i></sub>
 
 </div>
 
 <br/>
 
+<details>
+<summary><b>◆ &nbsp;I &nbsp;·&nbsp; RISHI RAJ A</b></summary>
+<br/>
 <div align="center">
+  <a href="https://github.com/Rishi18360"><img src="https://wsrv.nl/?url=github.com/Rishi18360.png&w=260&h=260&fit=cover&mask=circle&maxage=7d" width="110" alt="Rishi Raj A"/></a>
+  <br/><br/>
+  <sub><i>@Rishi18360</i></sub>
+  <br/><br/>
+  <a href="https://github.com/Rishi18360"><img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-C9A24B?style=flat-square&labelColor=0A0A0A&logo=github&logoColor=C9A24B" alt="Rishi Raj A on GitHub"/></a>
+</div>
+<br/>
+</details>
+
+<details>
+<summary><b>◆ &nbsp;II &nbsp;·&nbsp; IHSAN SAKEER</b></summary>
+<br/>
+<div align="center">
+  <a href="https://github.com/ihsansak"><img src="https://wsrv.nl/?url=github.com/ihsansak.png&w=260&h=260&fit=cover&mask=circle&maxage=7d" width="110" alt="Ihsan Sakeer"/></a>
+  <br/><br/>
+  <sub><i>@ihsansak</i></sub>
+  <br/><br/>
+  <a href="https://github.com/ihsansak"><img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-C9A24B?style=flat-square&labelColor=0A0A0A&logo=github&logoColor=C9A24B" alt="Ihsan Sakeer on GitHub"/></a>
+</div>
+<br/>
+</details>
+
+<details>
+<summary><b>◆ &nbsp;III &nbsp;·&nbsp; THANSEER AHMED M S</b></summary>
+<br/>
+<div align="center">
+  <a href="https://github.com/thansee-r"><img src="https://wsrv.nl/?url=github.com/thansee-r.png&w=260&h=260&fit=cover&mask=circle&maxage=7d" width="110" alt="Thanseer Ahmed M S"/></a>
+  <br/><br/>
+  <sub><i>@thansee-r</i></sub>
+  <br/><br/>
+  <a href="https://github.com/thansee-r"><img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-C9A24B?style=flat-square&labelColor=0A0A0A&logo=github&logoColor=C9A24B" alt="Thanseer Ahmed M S on GitHub"/></a>
+</div>
+<br/>
+</details>
+
+<details>
+<summary><b>◆ &nbsp;IV &nbsp;·&nbsp; ASHWIN SABU</b></summary>
+<br/>
+<div align="center">
+  <a href="https://github.com/AshwinSabu05"><img src="https://wsrv.nl/?url=github.com/AshwinSabu05.png&w=260&h=260&fit=cover&mask=circle&maxage=7d" width="110" alt="Ashwin Sabu"/></a>
+  <br/><br/>
+  <sub><i>@AshwinSabu05</i></sub>
+  <br/><br/>
+  <a href="https://github.com/AshwinSabu05"><img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-C9A24B?style=flat-square&labelColor=0A0A0A&logo=github&logoColor=C9A24B" alt="Ashwin Sabu on GitHub"/></a>
+</div>
+<br/>
+</details>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=3&section=header" width="60%" alt=""/>
+
+<br/>
 
 *If ECHO impressed you, leave a ★ on the repository.*
 
