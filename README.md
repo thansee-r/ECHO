@@ -107,7 +107,7 @@ After selecting a mode, follow the **on-screen instructions** to discover its ge
 
 <br/><br/>
 
-[![](https://img.shields.io/badge/I-RISHI%20RAJ%20A-8A6A22?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=C9A24B)](https://github.com/Rishi18360)
+[![](https://img.shields.io/badge/RISHI%20RAJ%20A-8A6A22?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=C9A24B)](https://github.com/Rishi18360)
 
 [![](https://img.shields.io/badge/II-IHSAN%20SAKEER-8A6A22?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=C9A24B)](https://github.com/ihsansak)
 
