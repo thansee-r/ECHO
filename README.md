@@ -103,21 +103,35 @@ After selecting a mode, follow the **on-screen instructions** to discover its ge
 
 <div align="center">
 
-<sub>◆ &nbsp; T H E &nbsp; M E N &nbsp; &amp; &nbsp; M I N D S &nbsp; B E H I N D &nbsp; E C H O &nbsp; ◆</sub>
-
-<br/><br/>
-
-[![](https://img.shields.io/badge/RISHI%20RAJ%20A-8A6A22?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=C9A24B)](https://github.com/Rishi18360)
-
-[![](https://img.shields.io/badge/II-IHSAN%20SAKEER-8A6A22?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=C9A24B)](https://github.com/ihsansak)
-
-[![](https://img.shields.io/badge/III-THANSEER%20AHMED%20M%20S-8A6A22?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=C9A24B)](https://github.com/thansee-r)
-
-[![](https://img.shields.io/badge/IV-ASHWIN%20SABU-8A6A22?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=C9A24B)](https://github.com/AshwinSabu05)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=3&section=header" width="60%" alt=""/>
 
 <br/>
 
-<sub>◆ &nbsp; Click a name to visit their GitHub &nbsp; ◆</sub>
+<sub>T H E &nbsp; M I N D S &nbsp; B E H I N D &nbsp; E C H O</sub>
+
+<br/><br/>
+
+### [Rishi Raj A](https://github.com/Rishi18360)
+<sub><i>@Rishi18360</i></sub>
+
+◆
+
+### [Ihsan Sakeer](https://github.com/ihsansak)
+<sub><i>@ihsansak</i></sub>
+
+◆
+
+### [Thanseer Ahmed M S](https://github.com/thansee-r)
+<sub><i>@thansee-r</i></sub>
+
+◆
+
+### [Ashwin Sabu](https://github.com/AshwinSabu05)
+<sub><i>@AshwinSabu05</i></sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=3&section=header" width="60%" alt=""/>
 
 </div>
 
