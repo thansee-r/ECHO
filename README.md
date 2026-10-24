@@ -107,18 +107,40 @@ After selecting a mode, follow the **on-screen instructions** to discover its ge
 
 <br/>
 
-<sub>C R A F T E D &nbsp; B Y</sub>
-
-<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=40&duration=2800&pause=900&color=C9A24B&center=true&vCenter=true&width=640&height=80&lines=Rishi+Raj+A;Ihsan+Sakeer;Thanseer+Ahmed+M+S;Ashwin+Sabu" alt="Rishi Raj A, Ihsan Sakeer, Thanseer Ahmed M S, Ashwin Sabu"/>
-
-<br/>
-
-<a href="https://github.com/Rishi18360"><b>RISHI RAJ A</b></a> &nbsp;◆&nbsp;
-<a href="https://github.com/ihsansak"><b>IHSAN SAKEER</b></a> &nbsp;◆&nbsp;
-<a href="https://github.com/thansee-r"><b>THANSEER AHMED M S</b></a> &nbsp;◆&nbsp;
-<a href="https://github.com/AshwinSabu05"><b>ASHWIN SABU</b></a>
+<sub>◆ &nbsp; T H E &nbsp; C O N T R I B U T O R S &nbsp; ◆</sub>
 
 <br/><br/>
+
+<a href="https://github.com/thansee-r/ECHO/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=thansee-r/ECHO&columns=4" alt="ECHO contributors"/>
+</a>
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center"><b>I</b></td>
+    <td align="left"><a href="https://github.com/Rishi18360"><b>RISHI RAJ A</b></a></td>
+    <td align="center"><img src="https://img.shields.io/github/followers/Rishi18360?label=FOLLOWERS&style=flat-square&labelColor=0A0A0A&color=C9A24B&logo=github&logoColor=C9A24B" alt="Rishi Raj A followers"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>II</b></td>
+    <td align="left"><a href="https://github.com/ihsansak"><b>IHSAN SAKEER</b></a></td>
+    <td align="center"><img src="https://img.shields.io/github/followers/ihsansak?label=FOLLOWERS&style=flat-square&labelColor=0A0A0A&color=C9A24B&logo=github&logoColor=C9A24B" alt="Ihsan Sakeer followers"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>III</b></td>
+    <td align="left"><a href="https://github.com/thansee-r"><b>THANSEER AHMED M S</b></a></td>
+    <td align="center"><img src="https://img.shields.io/github/followers/thansee-r?label=FOLLOWERS&style=flat-square&labelColor=0A0A0A&color=C9A24B&logo=github&logoColor=C9A24B" alt="Thanseer Ahmed M S followers"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>IV</b></td>
+    <td align="left"><a href="https://github.com/AshwinSabu05"><b>ASHWIN SABU</b></a></td>
+    <td align="center"><img src="https://img.shields.io/github/followers/AshwinSabu05?label=FOLLOWERS&style=flat-square&labelColor=0A0A0A&color=C9A24B&logo=github&logoColor=C9A24B" alt="Ashwin Sabu followers"/></td>
+  </tr>
+</table>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=3&section=header" width="60%" alt=""/>
 
