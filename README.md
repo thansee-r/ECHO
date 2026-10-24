@@ -17,13 +17,6 @@ Real-time hand-gesture recognition through your webcam. No mouse, no keyboard, n
 
 ---
 
-## 🎬 Demo
-
-<!-- Add a GIF or screenshot here. This is the single biggest thing that makes a README attractive. -->
-<!-- ![ECHO Demo](assets/demo.gif) -->
-
----
-
 ## ✨ Features
 
 - 🖐️ **Touch-free control**: everything runs through hand gestures
