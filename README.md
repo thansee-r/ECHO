@@ -1,241 +1,204 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:1a0033,100:003b4d&height=260&section=header&text=ECHO&fontSize=90&fontColor=00F0FF&animation=twinkling&fontAlignY=40&stroke=FF00E5&strokeWidth=2&desc=Your%20hand%20is%20the%20controller&descAlignY=65&descSize=22&descColor=ffffff" width="100%" alt="ECHO"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:151B2E&height=200&section=header&text=ECHO&fontSize=72&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&desc=GESTURE%20INTERFACE%20FOR%20THE%20TOUCHLESS%20ERA&descAlign=50&descAlignY=68&descSize=14&descColor=8B93A7" width="100%" alt="ECHO"/>
 
-<a href="https://github.com/thansee-r/ECHO">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=FF00E5&center=true&vCenter=true&width=650&height=40&lines=%F0%9F%96%90%EF%B8%8F+Wave+hello+to+touch-free+computing;%E2%98%9D%EF%B8%8F+%E2%9C%8C%EF%B8%8F+%F0%9F%A4%9F+%F0%9F%96%96+Pick+a+mode+with+your+fingers;No+mouse.+No+keyboard.+Just+a+webcam." alt="typing"/>
-</a>
+<br/>
+
+**Control your computer with a single hand.**<br/>
+Real-time gesture recognition through any webcam. No hardware. No contact.
+
+<br/>
+
+<img src="https://img.shields.io/badge/PYTHON-3.10.11-0B0F19?style=flat-square&logo=python&logoColor=5B8CFF&labelColor=0B0F19&color=1E2540" alt="Python"/>
+<img src="https://img.shields.io/badge/PLATFORM-WINDOWS-0B0F19?style=flat-square&logo=windows&logoColor=5B8CFF&labelColor=0B0F19&color=1E2540" alt="Platform"/>
+<img src="https://img.shields.io/badge/INPUT-WEBCAM-0B0F19?style=flat-square&logo=opencv&logoColor=5B8CFF&labelColor=0B0F19&color=1E2540" alt="Input"/>
+<img src="https://img.shields.io/github/last-commit/thansee-r/ECHO?style=flat-square&labelColor=0B0F19&color=1E2540" alt="Last commit"/>
+<img src="https://img.shields.io/github/stars/thansee-r/ECHO?style=flat-square&labelColor=0B0F19&color=1E2540" alt="Stars"/>
 
 <br/><br/>
 
-![Python](https://img.shields.io/badge/PYTHON-3.10.11-00F0FF?style=for-the-badge&logo=python&logoColor=black&labelColor=0d1117)
-![Platform](https://img.shields.io/badge/PLATFORM-WINDOWS-FF00E5?style=for-the-badge&logo=windows&logoColor=white&labelColor=0d1117)
-![Input](https://img.shields.io/badge/INPUT-WEBCAM-00F0FF?style=for-the-badge&logo=opencv&logoColor=black&labelColor=0d1117)
-![Modes](https://img.shields.io/badge/MODES-4-FF00E5?style=for-the-badge&labelColor=0d1117)
-
-![Stars](https://img.shields.io/github/stars/thansee-r/ECHO?style=social)
-![Forks](https://img.shields.io/github/forks/thansee-r/ECHO?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/thansee-r/ECHO?style=flat-square&color=00F0FF&labelColor=0d1117)
-![Repo Size](https://img.shields.io/github/repo-size/thansee-r/ECHO?style=flat-square&color=FF00E5&labelColor=0d1117)
-
-<br/>
-
-### ⚡ [Quick Start](#-quick-start) &nbsp;•&nbsp; 🎯 [Modes](#-the-4-modes) &nbsp;•&nbsp; 🧠 [How It Works](#-how-it-works) &nbsp;•&nbsp; 🗺️ [Roadmap](#️-roadmap) &nbsp;•&nbsp; 👥 [Team](#-the-team)
+[**Overview**](#overview) &nbsp;·&nbsp; [**Modes**](#modes) &nbsp;·&nbsp; [**Installation**](#installation) &nbsp;·&nbsp; [**Architecture**](#architecture) &nbsp;·&nbsp; [**Team**](#team)
 
 </div>
 
 <br/>
-
----
-
-## 🎬 Demo
 
 <div align="center">
 
-<!-- 👉 Replace with your main demo GIF (recommended width: 800px) -->
-<!-- <img src="assets/demo.gif" width="85%" alt="ECHO demo"/> -->
-
-<sub>📹 Add a demo GIF here: it is the first thing visitors look at.</sub>
+<!-- Replace with your hero demo GIF or video thumbnail (recommended: 1200 x 675) -->
+<!-- <img src="assets/demo.gif" width="88%" alt="ECHO in action"/> -->
 
 </div>
 
----
+<br/>
 
-## 💡 Why ECHO?
+## Overview
+
+ECHO turns your webcam into an input device. Show your hand, pick a mode with your fingers, and control the experience with gestures. There is no extra hardware to buy and nothing to wear.
+
+<br/>
 
 <table>
-<tr>
-<td align="center" width="25%">
-<h3>🖐️</h3>
-<b>Touch-Free</b><br/>
-<sub>Control everything with your hand</sub>
-</td>
-<td align="center" width="25%">
-<h3>📷</h3>
-<b>Just a Webcam</b><br/>
-<sub>No gloves, sensors or extra gear</sub>
-</td>
-<td align="center" width="25%">
-<h3>⚡</h3>
-<b>Real-Time</b><br/>
-<sub>Instant recognition, live feedback</sub>
-</td>
-<td align="center" width="25%">
-<h3>🎛️</h3>
-<b>4 Modes</b><br/>
-<sub>One app, many use cases</sub>
-</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Touchless</h4>
+      <sub>Operate everything with hand gestures alone. No mouse, no keyboard.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Instant</h4>
+      <sub>Real-time recognition with live on-screen guidance for every gesture.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Hardware-free</h4>
+      <sub>Works with the webcam you already have. Nothing to install but Python.</sub>
+    </td>
+  </tr>
 </table>
 
----
-
-## 🎯 The 4 Modes
-
-> Hold up fingers in front of the webcam after launch. ECHO switches modes instantly.
-
-<div align="center">
-
-| ☝️ **1 Finger** | ✌️ **2 Fingers** | 🤟 **3 Fingers** | 🖖 **4 Fingers** |
-|:---:|:---:|:---:|:---:|
-| 🦾 **Assistive** | 📊 **Presentation** | 💬 **Communication** | 🎮 **Entertainment** |
-| <sub>description</sub> | <sub>description</sub> | <sub>description</sub> | <sub>description</sub> |
-| <!-- <img src="assets/assistive.gif" width="170"/> --> | <!-- <img src="assets/presentation.gif" width="170"/> --> | <!-- <img src="assets/communication.gif" width="170"/> --> | <!-- <img src="assets/entertainment.gif" width="170"/> --> |
-
-</div>
-
-<details>
-<summary><b>🦾 Assistive Mode: gestures</b></summary>
 <br/>
 
-| Gesture | Action |
-|---|---|
-| <!-- gesture --> | <!-- action --> |
+## Modes
+
+Hold up fingers in front of the camera at launch to choose a mode.
+
+<br/>
+
+<table>
+  <tr>
+    <th align="center" width="25%">01</th>
+    <th align="center" width="25%">02</th>
+    <th align="center" width="25%">03</th>
+    <th align="center" width="25%">04</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Assistive</b><br/><sub>1 finger</sub></td>
+    <td align="center"><b>Presentation</b><br/><sub>2 fingers</sub></td>
+    <td align="center"><b>Communication</b><br/><sub>3 fingers</sub></td>
+    <td align="center"><b>Entertainment</b><br/><sub>4 fingers</sub></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><sub><!-- one-line description --></sub></td>
+    <td align="center" valign="top"><sub><!-- one-line description --></sub></td>
+    <td align="center" valign="top"><sub><!-- one-line description --></sub></td>
+    <td align="center" valign="top"><sub><!-- one-line description --></sub></td>
+  </tr>
+</table>
+
+<br/>
+
+Once a mode is active, follow the on-screen instructions to perform its gestures.
+
+<details>
+<summary><b>Gesture reference</b></summary>
+<br/>
+
+| Mode | Gesture | Action |
+|---|---|---|
+| Assistive | <!-- gesture --> | <!-- action --> |
+| Presentation | <!-- gesture --> | <!-- action --> |
+| Communication | <!-- gesture --> | <!-- action --> |
+| Entertainment | <!-- gesture --> | <!-- action --> |
 
 </details>
 
-<details>
-<summary><b>📊 Presentation Mode: gestures</b></summary>
 <br/>
 
-| Gesture | Action |
-|---|---|
-| <!-- gesture --> | <!-- action --> |
-
-</details>
-
-<details>
-<summary><b>💬 Communication Mode: gestures</b></summary>
-<br/>
-
-| Gesture | Action |
-|---|---|
-| <!-- gesture --> | <!-- action --> |
-
-</details>
-
-<details>
-<summary><b>🎮 Entertainment Mode: gestures</b></summary>
-<br/>
-
-| Gesture | Action |
-|---|---|
-| <!-- gesture --> | <!-- action --> |
-
-</details>
-
----
-
-## 🧠 How It Works
-
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1a0033','primaryBorderColor':'#00F0FF','lineColor':'#FF00E5','primaryTextColor':'#ffffff'}}}%%
-flowchart LR
-    A[📷 Webcam Feed] --> B[🖐️ Hand Detection]
-    B --> C[🔢 Finger / Gesture Recognition]
-    C --> D{🎛️ Mode Selector}
-    D -->|1| E[🦾 Assistive]
-    D -->|2| F[📊 Presentation]
-    D -->|3| G[💬 Communication]
-    D -->|4| H[🎮 Entertainment]
-```
-
----
-
-## 🚀 Quick Start
+## Installation
 
 > [!IMPORTANT]
-> ECHO was built and tested on **Python 3.10.x**. Use this version to avoid dependency issues.
-> 📥 Recommended: [**Python 3.10.11** (Windows installer, 64-bit)](https://www.python.org/downloads/release/python-31011/)
+> ECHO was developed and tested on **Python 3.10.x**. Use this version to avoid dependency conflicts.
+> Recommended: [Python 3.10.11, Windows installer (64-bit)](https://www.python.org/downloads/release/python-31011/)
+
+<br/>
+
+**1. Clone the repository**
 
 ```bash
-# 1️⃣  Clone the repo
 git clone https://github.com/thansee-r/ECHO.git
 cd ECHO
+```
 
-# 2️⃣  Create a virtual environment
+**2. Create and activate a virtual environment**
+
+```bash
 python -m venv .venv
+.venv\Scripts\activate          # Windows
+# source .venv/bin/activate     # macOS / Linux
+```
 
-# 3️⃣  Activate it
-.venv\Scripts\activate            # Windows
-# source .venv/bin/activate       # macOS / Linux
+**3. Install dependencies**
 
-# 4️⃣  Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
-# 5️⃣  Launch ECHO 🚀
+**4. Run**
+
+```bash
 python main.py
 ```
 
 <details>
-<summary><b>💻 Using VS Code?</b></summary>
+<summary><b>Troubleshooting</b></summary>
 <br/>
 
-```bash
-cd ECHO
-code .
+| Issue | Resolution |
+|---|---|
+| Dependency errors | Confirm `python --version` reports 3.10.x |
+| Activation blocked in PowerShell | Run `Set-ExecutionPolicy -Scope Process RemoteSigned`, then retry |
+| Camera fails to open | Close other apps using the webcam and check camera permissions |
+| Gestures not detected | Improve lighting and keep one hand fully in frame |
+
+</details>
+
+<br/>
+
+## Architecture
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0B0F19','primaryBorderColor':'#5B8CFF','primaryTextColor':'#E6E9F2','lineColor':'#5B8CFF','secondaryColor':'#151B2E','tertiaryColor':'#0B0F19','fontFamily':'Inter, sans-serif'}}}%%
+flowchart LR
+    A[Webcam] --> B[Hand Detection]
+    B --> C[Gesture Recognition]
+    C --> D{Mode Selector}
+    D --> E[Assistive]
+    D --> F[Presentation]
+    D --> G[Communication]
+    D --> H[Entertainment]
 ```
 
-Open the integrated terminal with `` Ctrl + ` `` and continue from step 2.
-
-</details>
-
-<details>
-<summary><b>🛠️ Troubleshooting</b></summary>
 <br/>
 
-| Problem | Fix |
-|---|---|
-| Dependency errors on install | Confirm `python --version` shows **3.10.x** |
-| `activate` is blocked in PowerShell | Run `Set-ExecutionPolicy -Scope Process RemoteSigned`, then activate again |
-| Camera does not open | Close other apps using the webcam and check camera permissions |
-| Gestures are not detected | Improve lighting and keep one hand fully in frame |
+## Limitations
 
-</details>
+- Single-hand gesture recognition only
+- Performance may vary under poor or uneven lighting
 
----
+<br/>
 
-## ⚠️ Limitations
+## Roadmap
 
-> [!WARNING]
-> - ✋ **Single-hand** gesture recognition only
-> - 💡 Performance may vary in **poor or uneven lighting**
-
----
-
-## 🗺️ Roadmap
-
-- [x] Real-time hand tracking via webcam
+- [x] Real-time hand tracking
 - [x] Four interaction modes
-- [ ] Multi-hand gesture support
-- [ ] Better low-light performance
-- [ ] More gestures per mode
+- [ ] Multi-hand support
+- [ ] Improved low-light performance
+- [ ] Expanded gesture library
 
-<sub>Edit this list to match your real plans.</sub>
+<br/>
 
----
+## Contributing
 
-## 🛠️ Built With
+Pull requests are welcome. For major changes, open an issue first to discuss what you would like to change.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<!-- ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) -->
-<!-- ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white) -->
+```bash
+git checkout -b feature/your-feature
+git commit -m "Add your feature"
+git push origin feature/your-feature
+```
 
----
+<br/>
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-1. 🍴 Fork the repo
-2. 🌿 Create a branch: `git checkout -b feature/amazing-gesture`
-3. 💾 Commit: `git commit -m "Add amazing gesture"`
-4. 📤 Push: `git push origin feature/amazing-gesture`
-5. 🔀 Open a Pull Request
-
----
-
-## 👥 The Team
+## Team
 
 <div align="center">
 
@@ -243,28 +206,28 @@ Contributions, issues and feature requests are welcome!
   <tr>
     <td align="center" width="200">
       <a href="https://github.com/Rishi18360">
-        <img src="https://github.com/Rishi18360.png?size=140" width="120" alt="Rishi Raj A"/><br/><br/>
+        <img src="https://github.com/Rishi18360.png?size=140" width="96" alt="Rishi Raj A"/><br/><br/>
         <b>Rishi Raj A</b><br/>
         <sub>@Rishi18360</sub>
       </a>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/ihsansak">
-        <img src="https://github.com/ihsansak.png?size=140" width="120" alt="Ihsan Sakeer"/><br/><br/>
+        <img src="https://github.com/ihsansak.png?size=140" width="96" alt="Ihsan Sakeer"/><br/><br/>
         <b>Ihsan Sakeer</b><br/>
         <sub>@ihsansak</sub>
       </a>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/thansee-r">
-        <img src="https://github.com/thansee-r.png?size=140" width="120" alt="Thanseer Ahmed M S"/><br/><br/>
+        <img src="https://github.com/thansee-r.png?size=140" width="96" alt="Thanseer Ahmed M S"/><br/><br/>
         <b>Thanseer Ahmed M S</b><br/>
         <sub>@thansee-r</sub>
       </a>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/AshwinSabu05">
-        <img src="https://github.com/AshwinSabu05.png?size=140" width="120" alt="Ashwin Sabu"/><br/><br/>
+        <img src="https://github.com/AshwinSabu05.png?size=140" width="96" alt="Ashwin Sabu"/><br/><br/>
         <b>Ashwin Sabu</b><br/>
         <sub>@AshwinSabu05</sub>
       </a>
@@ -274,12 +237,12 @@ Contributions, issues and feature requests are welcome!
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### ⭐ If ECHO impressed you, drop a star!
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:151B2E,100:0B0F19&height=80&section=footer" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003b4d,50:1a0033,100:000000&height=140&section=footer" width="100%" alt="footer"/>
+<sub>If ECHO is useful to you, consider starring the repository.</sub>
 
 </div>
