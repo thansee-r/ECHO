@@ -19,12 +19,6 @@
 
 <br/>
 
-<!-- Add your demo GIF here, centered:
-<div align="center">
-  <img src="assets/demo.gif" width="80%" alt="ECHO in action"/>
-</div>
--->
-
 ## ◆ Overview
 
 **ECHO** is a webcam-powered gesture control system. Hold up your hand and the interface responds. There is no extra hardware, only a camera and your fingertips.
@@ -109,44 +103,21 @@ After selecting a mode, follow the **on-screen instructions** to discover its ge
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:3B2F14,100:C9A24B&height=64&section=header&text=C%20R%20A%20F%20T%20E%20D%20%20%20B%20Y&fontSize=18&fontColor=F5E6B8&fontAlignY=52" width="100%" alt="Crafted by"/>
+<sub>◆ &nbsp; T H E &nbsp; M E N &nbsp; &amp; &nbsp; M I N D S &nbsp; B E H I N D &nbsp; E C H O &nbsp; ◆</sub>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <br/>
-      <a href="https://github.com/Rishi18360"><b>RISHI RAJ A</b></a>
-      <br/>
-      <sub>◆ &nbsp;<a href="https://github.com/Rishi18360">@Rishi18360</a>&nbsp; ◆</sub>
-      <br/><br/>
-    </td>
-    <td align="center" width="50%">
-      <br/>
-      <a href="https://github.com/ihsansak"><b>IHSAN SAKEER</b></a>
-      <br/>
-      <sub>◆ &nbsp;<a href="https://github.com/ihsansak">@ihsansak</a>&nbsp; ◆</sub>
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <br/>
-      <a href="https://github.com/thansee-r"><b>THANSEER AHMED M S</b></a>
-      <br/>
-      <sub>◆ &nbsp;<a href="https://github.com/thansee-r">@thansee-r</a>&nbsp; ◆</sub>
-      <br/><br/>
-    </td>
-    <td align="center" width="50%">
-      <br/>
-      <a href="https://github.com/AshwinSabu05"><b>ASHWIN SABU</b></a>
-      <br/>
-      <sub>◆ &nbsp;<a href="https://github.com/AshwinSabu05">@AshwinSabu05</a>&nbsp; ◆</sub>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A24B,50:3B2F14,100:0A0A0A&height=8&section=footer" width="100%" alt=""/>
+[![I](https://img.shields.io/badge/I-RISHI%20RAJ%20A-8A6A22?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=C9A24B)](https://github.com/Rishi18360)
+
+[![II](https://img.shields.io/badge/II-IHSAN%20SAKEER-8A6A22?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=C9A24B)](https://github.com/ihsansak)
+
+[![III](https://img.shields.io/badge/III-THANSEER%20AHMED%20M%20S-8A6A22?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=C9A24B)](https://github.com/thansee-r)
+
+[![IV](https://img.shields.io/badge/IV-ASHWIN%20SABU-8A6A22?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=C9A24B)](https://github.com/AshwinSabu05)
+
+<br/>
+
+<sub>◆ &nbsp; Click a name to visit their GitHub &nbsp; ◆</sub>
 
 </div>
 
