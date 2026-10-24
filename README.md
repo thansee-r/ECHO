@@ -107,13 +107,13 @@ After selecting a mode, follow the **on-screen instructions** to discover its ge
 
 <br/><br/>
 
-[![I](https://img.shields.io/badge/I-RISHI%20RAJ%20A-8A6A22?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=C9A24B)](https://github.com/Rishi18360)
+[![](https://img.shields.io/badge/I-RISHI%20RAJ%20A-8A6A22?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=C9A24B)](https://github.com/Rishi18360)
 
-[![II](https://img.shields.io/badge/II-IHSAN%20SAKEER-8A6A22?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=C9A24B)](https://github.com/ihsansak)
+[![](https://img.shields.io/badge/II-IHSAN%20SAKEER-8A6A22?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=C9A24B)](https://github.com/ihsansak)
 
-[![III](https://img.shields.io/badge/III-THANSEER%20AHMED%20M%20S-8A6A22?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=C9A24B)](https://github.com/thansee-r)
+[![](https://img.shields.io/badge/III-THANSEER%20AHMED%20M%20S-8A6A22?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=C9A24B)](https://github.com/thansee-r)
 
-[![IV](https://img.shields.io/badge/IV-ASHWIN%20SABU-8A6A22?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=C9A24B)](https://github.com/AshwinSabu05)
+[![](https://img.shields.io/badge/IV-ASHWIN%20SABU-8A6A22?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=C9A24B)](https://github.com/AshwinSabu05)
 
 <br/>
 
