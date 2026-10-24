@@ -109,36 +109,44 @@ After selecting a mode, follow the **on-screen instructions** to discover its ge
 
 <div align="center">
 
-<sub>◆ &nbsp; T H E &nbsp; A T E L I E R &nbsp; ◆</sub>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:3B2F14,100:C9A24B&height=64&section=header&text=C%20R%20A%20F%20T%20E%20D%20%20%20B%20Y&fontSize=18&fontColor=F5E6B8&fontAlignY=52" width="100%" alt="Crafted by"/>
 
 <table>
   <tr>
-    <td align="center" width="60"><sub><b>I</b></sub></td>
-    <td align="center" width="80"><a href="https://github.com/Rishi18360"><img src="https://wsrv.nl/?url=github.com/Rishi18360.png&w=120&h=120&fit=cover&mask=circle&maxage=7d" width="52" alt="Rishi Raj A"/></a></td>
-    <td align="left" width="260"><b>Rishi Raj A</b><br/><sub>@Rishi18360</sub></td>
-    <td align="center" width="140"><a href="https://github.com/Rishi18360"><sub><b>VIEW PROFILE &nbsp;→</b></sub></a></td>
+    <td align="center" width="50%">
+      <br/>
+      <a href="https://github.com/Rishi18360"><b>RISHI RAJ A</b></a>
+      <br/>
+      <sub>◆ &nbsp;<a href="https://github.com/Rishi18360">@Rishi18360</a>&nbsp; ◆</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="50%">
+      <br/>
+      <a href="https://github.com/ihsansak"><b>IHSAN SAKEER</b></a>
+      <br/>
+      <sub>◆ &nbsp;<a href="https://github.com/ihsansak">@ihsansak</a>&nbsp; ◆</sub>
+      <br/><br/>
+    </td>
   </tr>
   <tr>
-    <td align="center" width="60"><sub><b>II</b></sub></td>
-    <td align="center" width="80"><a href="https://github.com/ihsansak"><img src="https://wsrv.nl/?url=github.com/ihsansak.png&w=120&h=120&fit=cover&mask=circle&maxage=7d" width="52" alt="Ihsan Sakeer"/></a></td>
-    <td align="left" width="260"><b>Ihsan Sakeer</b><br/><sub>@ihsansak</sub></td>
-    <td align="center" width="140"><a href="https://github.com/ihsansak"><sub><b>VIEW PROFILE &nbsp;→</b></sub></a></td>
-  </tr>
-  <tr>
-    <td align="center" width="60"><sub><b>III</b></sub></td>
-    <td align="center" width="80"><a href="https://github.com/thansee-r"><img src="https://wsrv.nl/?url=github.com/thansee-r.png&w=120&h=120&fit=cover&mask=circle&maxage=7d" width="52" alt="Thanseer Ahmed M S"/></a></td>
-    <td align="left" width="260"><b>Thanseer Ahmed M S</b><br/><sub>@thansee-r</sub></td>
-    <td align="center" width="140"><a href="https://github.com/thansee-r"><sub><b>VIEW PROFILE &nbsp;→</b></sub></a></td>
-  </tr>
-  <tr>
-    <td align="center" width="60"><sub><b>IV</b></sub></td>
-    <td align="center" width="80"><a href="https://github.com/AshwinSabu05"><img src="https://wsrv.nl/?url=github.com/AshwinSabu05.png&w=120&h=120&fit=cover&mask=circle&maxage=7d" width="52" alt="Ashwin Sabu"/></a></td>
-    <td align="left" width="260"><b>Ashwin Sabu</b><br/><sub>@AshwinSabu05</sub></td>
-    <td align="center" width="140"><a href="https://github.com/AshwinSabu05"><sub><b>VIEW PROFILE &nbsp;→</b></sub></a></td>
+    <td align="center" width="50%">
+      <br/>
+      <a href="https://github.com/thansee-r"><b>THANSEER AHMED M S</b></a>
+      <br/>
+      <sub>◆ &nbsp;<a href="https://github.com/thansee-r">@thansee-r</a>&nbsp; ◆</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="50%">
+      <br/>
+      <a href="https://github.com/AshwinSabu05"><b>ASHWIN SABU</b></a>
+      <br/>
+      <sub>◆ &nbsp;<a href="https://github.com/AshwinSabu05">@AshwinSabu05</a>&nbsp; ◆</sub>
+      <br/><br/>
+    </td>
   </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A24B,50:3B2F14,100:0A0A0A&height=8&section=footer" width="100%" alt=""/>
 
 </div>
 
